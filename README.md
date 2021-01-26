@@ -20,7 +20,7 @@ To run the React server you will need npm or yarn installed in your computer. Al
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/felipemmendes/vuttr-api.git
+   git clone https://github.com/felipemmendes/vuttr-web.git
    ```
 2. Install NPM packages
 
